@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SextaDoPastel.API</name>
+    </assembly>
+    <members>
+        <member name="F:SextaDoPastel.API.Controllers.LoginController._loginNegocio">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.Get">
+            <summary>
+            MÉTODO QUE OBTÉM UMA LISTA DOS "LOGINS"
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.GetId(System.Int32)">
+            <summary>
+            MÉTODO QUE OBTÉM UM "LOGIN" POR {ID}
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.GetEmail(System.String)">
+            <summary>
+            MÉTODO QUE OBTÉM UM "LOGIN" POR {EMAIL}
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.GetNick(System.String)">
+            <summary>
+            MÉTODO QUE OBTÉM UM "LOGIN" POR {NICK}
+            </summary>
+            <param name="nick"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.GetLogin(System.String,System.String)">
+            <summary>
+            MÉTODO QUE VALIDA O LOGIN POR ({CPF} / {EMAIL}) E {SENHA}
+            </summary>
+            <param name="login"></param>
+            <param name="senha"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.Post(SextaDoPastel.Model.LoginInput)">
+            <summary>
+            MÉTODO QUE INSERE UM "LOGIN"
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.Put(System.Int32,SextaDoPastel.Model.LoginInput)">
+            <summary>
+            MÉTODO QUE ALTERA SENHA DO "LOGIN" POR {ID}
+            </summary>
+            <param name="id"></param>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.PutEmailNick(System.Int32,SextaDoPastel.Model.LoginInput)">
+            <summary>
+            MÉTODO QUE ALTERA SENHA DO "LOGIN" POR {ID}
+            </summary>
+            <param name="id"></param>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.PutStatus(System.Int32,SextaDoPastel.Model.LoginInput)">
+            <summary>
+            MÉTODO QUE ALTERA STATUS ATIVO/INATIVO POR {ID}
+            </summary>
+            <param name="id"></param>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.PutPerfil(System.Int32,SextaDoPastel.Model.LoginInput)">
+            <summary>
+            MÉTODO QUE ALTERA PERFIL USER/ADM POR {ID}
+            </summary>
+            <param name="id"></param>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Controllers.LoginController.Delete(System.Int32)">
+            <summary>
+            MÉTODO QUE EXCLUI UM "LOGIN" POR {ID}
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SextaDoPastel.API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:SextaDoPastel.API.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SextaDoPastel.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:SextaDoPastel.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment,System.IServiceProvider)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

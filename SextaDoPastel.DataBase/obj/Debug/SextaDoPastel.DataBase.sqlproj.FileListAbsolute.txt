@@ -1,0 +1,12 @@
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.dacpac
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.pdb
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.sqlprojAssemblyReference.cache
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.dacpac
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\bin\Debug\SextaDoPastel.DataBase.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.sqlprojAssemblyReference.cache
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.DataBase\obj\Debug\SextaDoPastel.DataBase.pdb

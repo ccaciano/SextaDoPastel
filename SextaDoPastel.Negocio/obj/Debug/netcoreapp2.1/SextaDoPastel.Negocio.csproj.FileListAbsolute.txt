@@ -1,0 +1,28 @@
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.AssemblyInfoInputs.cache
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.AssemblyInfo.cs
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.deps.json
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.pdb
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dado.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dominio.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dado.pdb
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dominio.pdb
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csprojAssemblyReference.cache
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csproj.CopyComplete
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.dll
+C:\Users\cacaciano\Desktop\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.deps.json
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Negocio.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dado.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dominio.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dado.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\bin\Debug\netcoreapp2.1\SextaDoPastel.Dominio.pdb
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csprojAssemblyReference.cache
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csproj.CoreCompileInputs.cache
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.AssemblyInfoInputs.cache
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.AssemblyInfo.cs
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.csproj.CopyComplete
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.dll
+D:\Visual Studio - PROJETOS\PASTEL VICERI\SextaDoPastel\SextaDoPastel.Negocio\obj\Debug\netcoreapp2.1\SextaDoPastel.Negocio.pdb
